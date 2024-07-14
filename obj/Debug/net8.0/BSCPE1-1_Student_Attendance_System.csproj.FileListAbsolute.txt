@@ -1,0 +1,14 @@
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\bin\Debug\net8.0\BSCPE1-1_Student_Attendance_System.exe
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\bin\Debug\net8.0\BSCPE1-1_Student_Attendance_System.deps.json
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\bin\Debug\net8.0\BSCPE1-1_Student_Attendance_System.runtimeconfig.json
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\bin\Debug\net8.0\BSCPE1-1_Student_Attendance_System.dll
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\bin\Debug\net8.0\BSCPE1-1_Student_Attendance_System.pdb
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\obj\Debug\net8.0\BSCPE1-1_Student_Attendance_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\obj\Debug\net8.0\BSCPE1-1_Student_Attendance_System.AssemblyInfoInputs.cache
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\obj\Debug\net8.0\BSCPE1-1_Student_Attendance_System.AssemblyInfo.cs
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\obj\Debug\net8.0\BSCPE1-1_Student_Attendance_System.csproj.CoreCompileInputs.cache
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\obj\Debug\net8.0\BSCPE1-1_Student_Attendance_System.dll
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\obj\Debug\net8.0\refint\BSCPE1-1_Student_Attendance_System.dll
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\obj\Debug\net8.0\BSCPE1-1_Student_Attendance_System.pdb
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\obj\Debug\net8.0\BSCPE1-1_Student_Attendance_System.genruntimeconfig.cache
+C:\Users\acera\OneDrive\Documents\Visual Studio Projects\OOP_Final_Project\BSCPE1-1_Student_Attendance_System\obj\Debug\net8.0\ref\BSCPE1-1_Student_Attendance_System.dll
