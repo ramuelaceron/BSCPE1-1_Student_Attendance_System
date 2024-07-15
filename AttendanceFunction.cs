@@ -13,7 +13,7 @@ namespace BSCPE1_1_Student_Attendance_System
         public static void ScheduleTime()
         {
             StartTime.Add(DateTime.Parse("10:30:00 am"));
-            StartTime.Add(DateTime.Parse("02:00:00 pm"));
+            StartTime.Add(DateTime.Parse("14:00:00 pm"));
             StartTime.Add(DateTime.Parse("14:30:00 pm"));
             StartTime.Add(DateTime.Parse("09:00:00 am"));
             StartTime.Add(DateTime.Parse("11:00:00 am"));
