@@ -14,7 +14,7 @@
                 Console.WriteLine("| SCHEDULE:                                                      |");
                 Console.WriteLine("|     WEDNESDAY                                                  |");
                 Console.WriteLine("|        Calculus 2                       :  10:30AM – 13:30PM   |");
-                Console.WriteLine("|        CWTS 2                           :  10:30AM – 13:30PM   |");
+                Console.WriteLine("|        CWTS 2                           :  14:00AM – 17:00PM   |");
                 Console.WriteLine("|     THURSDAY                                                   |");
                 Console.WriteLine("|        Physics                          :  14:30PM – 20:00PM   |");
                 Console.WriteLine("|     FRIDAY                                                     |");
